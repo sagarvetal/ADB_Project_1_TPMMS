@@ -1,1 +1,1 @@
-Keep your input data files here.
+Keep your input data files in this folder.
